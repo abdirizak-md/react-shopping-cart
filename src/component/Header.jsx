@@ -10,7 +10,7 @@ const Header = () => {
     const { products } = useShop();
     return (
         <div className="menu" >
-            <Link className="logo">Reactfiy</Link>
+            <Link className="logo">Reactfiy App</Link>
             <div className="links">
                 <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
